@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BDgraph"]
 	path = BDgraph
 	url = https://github.com/cran/BDgraph
-	shallow = true
-	registered = true
 [submodule "bmixture"]
 	path = bmixture
 	url = https://github.com/cran/bmixture
-	shallow = true
-	registered = true
 [submodule "liver"]
 	path = liver
 	url = https://github.com/cran/liver
-	shallow = true
-	registered = true
 [submodule "ssgraph"]
 	path = ssgraph
 	url = https://github.com/cran/ssgraph
-	shallow = true
-	registered = true
